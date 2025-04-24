@@ -68,15 +68,20 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by:NIJANTH K
  RegisterNumber: 212224036186
- ![WhatsApp Image 2024-11-07 at 10 11 22_bba778a1](https://github.com/user-attachments/assets/ef4601ac-f513-496f-9dfe-0f0f03853bd0)
+ # PROGRAM
+![Screenshot 2024-10-24 144301](https://github.com/user-attachments/assets/9458a6c0-9c45-48d8-94d6-bc0b330179bb)
 
  
-**Logic symbol & Truthtable**
-![WhatsApp Image 2024-11-07 at 11 06 16_e85644e4](https://github.com/user-attachments/assets/ef39c3b4-1c10-4cc4-9a6c-0564088cab4d)
-**RTL realization Output:** 
-![WhatsApp Image 2024-11-07 at 10 11 21_c8637fd5](https://github.com/user-attachments/assets/d7b09ae6-f733-46b7-abc4-c09ebf69c920)
-**RTL**
-![WhatsApp Image 2024-11-07 at 10 11 22_b149d4ee](https://github.com/user-attachments/assets/755af34a-524b-408b-8ac7-ac652dc4b16a)
+# Logic symbol & Truthtable
+![WhatsApp Image 2024-10-28 at 11 19 40 AM](https://github.com/user-attachments/assets/57df5c3c-d4ea-4093-b125-b31b916fce5a)
+
+
+# RTL: 
+![Screenshot 2024-10-24 144434](https://github.com/user-attachments/assets/7159b0cc-fae0-45bb-961f-d6ef9003a3f2)
+
+ # OUTPUT WAVEFORM
+![Screenshot 2024-10-24 144600](https://github.com/user-attachments/assets/48a1671d-7bca-42c9-8f82-6b6a68d8b0d2)
+
 **Result:**
 studied and verified the truth table of logic gates in Quartus II using Verilog programming
 successfully
